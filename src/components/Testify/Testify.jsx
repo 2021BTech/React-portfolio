@@ -4,7 +4,7 @@ import "./Testify.css";
 const Testify = () => {
   return (
     <div>
-      
+      Testify
     </div>
   )
 }
