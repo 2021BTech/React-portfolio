@@ -3,6 +3,7 @@ import "./Header.css";
 import CTA from "./CTA";
 import Me from "../../asset/IM.png";
 import HeaderSoc from './HeaderSoc';
+import { FaArrowRight } from 'react-icons/fa'
 
 const Header = () => {
   return (
@@ -19,7 +20,7 @@ const Header = () => {
       </div>
 
       <a href='#Contact' className='scroll__down'>
-        Scroll Down
+        <FaArrowRight />
       </a> 
 
     </div>
