@@ -22,7 +22,7 @@
     /*screen size */
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-sm: 90%;
 }
 
 html {
@@ -58,8 +58,8 @@ h1{
     font-size: 2.5rem;
 }
 section {
-    margin-top: 8rem;
-    height: 100vh;
+    margin-top: 11rem;
+    /* height: 100vh; */
 }
 
 section > h2, section > h5 {
