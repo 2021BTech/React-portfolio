@@ -63,7 +63,7 @@ const Services = () => {
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p> Alaways at your service to deliver.</p>
+              <p> Always at your service to deliver.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
