@@ -75,7 +75,7 @@ const Services = () => {
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Having love what I do, Hopefully you will see it fit to want to work with me.</p>
             </li>
           </ul>
         </article>
@@ -105,11 +105,11 @@ const Services = () => {
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p> Content Creattion with a difference!</p>
+              <p> Content Creation with a difference!</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Your mind we create...</p>
             </li>
           </ul>
         </article>
