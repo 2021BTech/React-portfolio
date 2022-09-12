@@ -17,27 +17,27 @@ const Services = () => {
           <ul className='service__list'>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Figma implimentation, bring designs to live. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Having a team of designers just for you. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Always ready to do your designs for you. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Every day is an avenue to bring designs to live. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> creation at its best. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Your choice our desire! </p>
             </li>
           </ul>
         </article>
@@ -51,27 +51,27 @@ const Services = () => {
           <ul className='service__list'>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> creating and maintaining designs. </p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> HTML, CSS, JAVASCRIPT, REACT are the tools we use.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> We aim to deliver the best.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Alaways at your service to deliver.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> The love for the web and what it can create is what we aim to achieve.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> I Love to Work in a team if you would have me.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
@@ -89,23 +89,23 @@ const Services = () => {
           <ul className='service__list'>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Words can't be over emphasize.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Writing is an art.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> We don't just write, we create memories.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Just one article can change how you think.</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Content Creattion with a difference!</p>
             </li>
             <li> 
               <BiCheck className='service__list-icon'/>
