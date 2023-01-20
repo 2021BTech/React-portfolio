@@ -30,7 +30,7 @@ const Contact = () => {
             <MdOutlineEmail className='cc' />
             <h4> Email </h4>
             <h5> daffydanni@gmail.com </h5>
-            <a href='mailto:daffydanni@gmail.com'> Send a Message</a>
+            <a href='mailto:daffydanni@gmail.com'>Send a Message</a>
           </article>
           <article className='contact__option'>
             <FaTwitter  className='contact__option-icon'/>
