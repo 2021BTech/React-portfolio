@@ -20,7 +20,7 @@ const data = [
     image:IMG2,
     title:"Grocery_Bud",
     github:"https://github.com/2021BTech",
-    demo:"https://vercel.com/2021btech/grocery-bud"
+    demo:"https://grocery-bud-brown.vercel.app/"
   },
   {
     id:3,
@@ -34,7 +34,7 @@ const data = [
     image:IMG4,
     title:"Asikko_",
     github:"https://github.com/2021BTech",
-    demo:"https://vercel.com/2021btech/asiiko"
+    demo:"https://asiiko-iota.vercel.app/"
   },
   {
     id:5,
@@ -48,7 +48,7 @@ const data = [
     image:IMG6,
     title:"HACKER NEWS",
     github:"https://github.com/2021BTech",
-    demo:"https://vercel.com/2021btech/hacker-news"
+    demo:""
   }
 ]
 
@@ -69,7 +69,7 @@ const Portfolio = () => {
                     <h3> {title} </h3>
                     <div className='portfolio__item-cta'>
                       <a href={github} className='btn'> GITHUB </a>
-                      <a href={demo} className='btn btn-primary' target="_blank"> Live Demo</a>
+                      <a href={demo} className='btn btn-primary' target="/"> Live Demo</a>
                     </div>
                 </article>
               )
