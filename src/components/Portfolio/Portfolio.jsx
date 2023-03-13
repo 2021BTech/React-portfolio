@@ -11,44 +11,44 @@ const data = [
     {
         id:1,
         image:IMG1,
-        title:"OminiFoods",
-        github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-        demo:"https://github.com/2021BTeominFoodsch/"
+        title:"Quiz App",
+        github:"https://github.com/2021BTech",
+        demo:"https://quiz-app-zeta-ten.vercel.app/"
     },
   {
     id:2,
     image:IMG2,
-    title:"Portfolio- with React jS",
-    github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-    demo:"https://github.com/2021BTeominFoodsch/"
+    title:"Grocery_Bud",
+    github:"https://github.com/2021BTech",
+    demo:"https://vercel.com/2021btech/grocery-bud"
   },
   {
     id:3,
     image:IMG3,
     title:"Crunchy Movies with React",
-    github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-    demo:"https://github.com/2021BTeominFoodsch/"
+    github:"https://github.com/2021BTech",
+    demo:"https://crunchy-movies.vercel.app/"
   },
   {
     id:4,
     image:IMG4,
-    title:"Chat-bot with React/Socket.io",
-    github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-    demo:"https://github.com/2021BTeominFoodsch/"
+    title:"Asikko_",
+    github:"https://github.com/2021BTech",
+    demo:"https://vercel.com/2021btech/asiiko"
   },
   {
     id:5,
     image:IMG5,
     title:"Rest countries API",
-    github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-    demo:"https://github.com/2021BTeominFoodsch/"
+    github:"https://github.com/2021BTech",
+    demo:"https://rest-countries-api-2021btech.vercel.app/"
   },
   {
     id:6,
     image:IMG6,
-    title:"GVE DEMO-Property App",
-    github:"https://github.com/2021BTech?tab=overview&from=2022-09-01&to=2022-09-02",
-    demo:"https://github.com/2021BTeominFoodsch/"
+    title:"HACKER NEWS",
+    github:"https://github.com/2021BTech",
+    demo:"https://vercel.com/2021btech/hacker-news"
   }
 ]
 
