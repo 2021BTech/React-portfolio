@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward  className='about__icon'/>
               <h5> Experience </h5>
-              <small> 1+ Years Working </small>
+              <small> 3+ Years Working </small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-          Experienced Web Developer with a demonstrated history of working in the information technology and services industry. 
+          Experienced software Developer with a demonstrated history of working in the information technology and services industry. 
           Skilled in Communication, Customer Relationship Management (CRM), Management, Microsoft Excel, and Engineering. Strong engineering professional with a Bachelor of Engineering-BE focused in metallurgical/material engineering from Nnamdi Azikiwe University.
           </p>
 
