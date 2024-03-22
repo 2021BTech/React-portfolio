@@ -41,7 +41,7 @@ const data = [
     image: IMG5,
     title: "Quiz App",
     github: "https://github.com/2021BTech/Quiz-App",
-    demo: "https://github.com/2021BTech/Quiz-App",
+    demo: "https://quiz-app-zeta-ten.vercel.app/",
   },
   {
     id: 6,
